@@ -1278,7 +1278,7 @@ scaffold_24	StringTie	exon	1721288	1721561	.	+	.	ID=exon-339118;Parent=TCONS_000
 scaffold_24	StringTie	gene	1744123	1744532	.	+	.	ID=XLOC_036708;gene_id=XLOC_036708;oId=TCONS_00088972;transcript_id=TCONS_00088972;tss_id=TSS72030
 scaffold_24	StringTie	transcript	1744123	1744532	.	+	.	ID=TCONS_00088972;Parent=XLOC_036708;gene_id=XLOC_036708;oId=TCONS_00088972;transcript_id=TCONS_00088972;tss_id=TSS72030
 scaffold_24	StringTie	exon	1744123	1744532	.	+	.	ID=exon-342185;Parent=TCONS_00088972;exon_number=1;gene_id=XLOC_036708;transcript_id=TCONS_00088972
-scaffold_24	StringTie	gene	1747946	1766138	.	-	.	ID=XLOC_036610;gene_id=XLOC_036610;oId=TCONS_00088784;transcript_id=TCONS_00088784;tss_id=TSS71896
+scaffold_24	StringTie	gene	1747946	1766138	.	-	.	ID=XLOC_036610;gene_id=XLOC_036610;oId=TCONS_00088784;transcript_id=TCONS_00088784;tss_id=TSS71896;name=Pax3/7-1;description=PRD-class paired-box gene 3/7 homeobox 1 (prd/gooseberry/gooseberry neuro);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_24	StringTie	transcript	1747946	1766138	.	-	.	ID=TCONS_00088784;Parent=XLOC_036610;gene_id=XLOC_036610;oId=TCONS_00088784;transcript_id=TCONS_00088784;tss_id=TSS71896
 scaffold_24	StringTie	exon	1747946	1749389	.	-	.	ID=exon-341314;Parent=TCONS_00088784;exon_number=1;gene_id=XLOC_036610;transcript_id=TCONS_00088784
 scaffold_24	StringTie	exon	1749676	1749809	.	-	.	ID=exon-341315;Parent=TCONS_00088784;exon_number=2;gene_id=XLOC_036610;transcript_id=TCONS_00088784
@@ -1290,7 +1290,7 @@ scaffold_24	StringTie	exon	1761364	1761527	.	-	.	ID=exon-341320;Parent=TCONS_000
 scaffold_24	StringTie	exon	1765995	1766138	.	-	.	ID=exon-341321;Parent=TCONS_00088784;exon_number=8;gene_id=XLOC_036610;transcript_id=TCONS_00088784
 scaffold_24	StringTie	transcript	1747948	1749392	.	-	.	ID=TCONS_00088785;Parent=XLOC_036610;gene_id=XLOC_036610;oId=TCONS_00088785;transcript_id=TCONS_00088785;tss_id=TSS71897
 scaffold_24	StringTie	exon	1747948	1749392	.	-	.	ID=exon-341322;Parent=TCONS_00088785;exon_number=1;gene_id=XLOC_036610;transcript_id=TCONS_00088785
-scaffold_24	StringTie	gene	1775015	1784426	.	-	.	ID=XLOC_036611;gene_id=XLOC_036611;oId=TCONS_00088786;transcript_id=TCONS_00088786;tss_id=TSS71898
+scaffold_24	StringTie	gene	1775015	1784426	.	-	.	ID=XLOC_036611;gene_id=XLOC_036611;oId=TCONS_00088786;transcript_id=TCONS_00088786;tss_id=TSS71898;name=Pax3/7-2;description=PRD-class paired-box gene 3/7 homeobox 2 (prd/gooseberry/gooseberry neuro);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_24	StringTie	transcript	1775015	1784426	.	-	.	ID=TCONS_00088786;Parent=XLOC_036611;gene_id=XLOC_036611;oId=TCONS_00088786;transcript_id=TCONS_00088786;tss_id=TSS71898
 scaffold_24	StringTie	exon	1775015	1775449	.	-	.	ID=exon-341323;Parent=TCONS_00088786;exon_number=1;gene_id=XLOC_036611;transcript_id=TCONS_00088786
 scaffold_24	StringTie	exon	1775533	1775883	.	-	.	ID=exon-341324;Parent=TCONS_00088786;exon_number=2;gene_id=XLOC_036611;transcript_id=TCONS_00088786
